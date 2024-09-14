@@ -22,7 +22,7 @@
 1)	Перейдите на сайт vr.vex.com и ознакомитесь с главной страницей сайта.
 
 
- ![image](https://github.com/user-attachments/assets/00218dfc-0848-4735-b07a-a3800000aa43)
+![image](https://github.com/user-attachments/assets/00218dfc-0848-4735-b07a-a3800000aa43)
 Рисунок 2. Сайт vexcode.
 
 
