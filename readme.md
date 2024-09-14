@@ -23,6 +23,7 @@
 
 
 <img src="https://www.vexforum.com/uploads/default/original/3X/f/e/feb244d52be03f243f03c5f514d6aea034f2bccb.png" width="2000" />
+
 Рисунок 2. Сайт vexcode.
 
 
