@@ -29,7 +29,7 @@
 3)	Попробуйте нажать на кнопку «Открыть поле» в правом верхнем углу. 
 
 
- ![image](https://github.com/user-attachments/assets/22c19ccc-c06e-4de6-9aeb-aac503dbd388)
+![image](https://github.com/user-attachments/assets/22c19ccc-c06e-4de6-9aeb-aac503dbd388)
 
 Рисунок 3. Запуск игрового поля.
 3)	Перед вами откроется поле. Попробуем заставить робота двигаться:
