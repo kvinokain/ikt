@@ -48,7 +48,7 @@
 
 12) Попробуйте самостоятельно сделать машинку похожую на марсоход. Вот пример чуть улучшенной фигуры:
 
-![image](https://github.com/user-attachments/assets/00fec628-7c7a-4f35-bac4-60af866add13)
+![image](https://github.com/user-attachments/assets/6ecb9ea0-48b1-43d2-a59f-19ea88cebe5b)
 
 
 ### Критерии оценки
